@@ -1,0 +1,12 @@
+transformers==5.9.0
+tokenizers==0.23.0rc0
+safetensors==0.7.0
+requests==2.34.2
+regex==2026.5.9
+torch==2.12.0
+gradio==6.14.0
+opencv-python==4.13.0.92
+Pillow==10.2.0
+scipy==1.17.1
+sentencepiece==0.2.1
+sacremoses==0.1.1
